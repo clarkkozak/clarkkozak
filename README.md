@@ -7,4 +7,4 @@
 - 💬 Ask me about making sourdough
 - 📫 How to reach me: https://keybase.io/clarkkozak
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Companion - literally "bread fellow, messmate," from Latin com "with, together" (see com-) + panis "bread," from PIE root *pa- "to feed."
+- ⚡ Fun fact: Companion - literally "bread fellow, messmate," or "one who shares bread with," from Latin com "with, together" (see com-) + panis "bread," from PIE root *pa- "to feed."
