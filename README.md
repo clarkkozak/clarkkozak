@@ -1,6 +1,6 @@
 ### Hi companions 👋
 
-- 🔭 I’m currently working on making software as useful as than the bread I can bake
+- 🔭 I’m currently trying to get software I make as useful as the bread I can bake
 - 🌱 I’m currently learning fullstack development with JavaScript
 - 👯 I’m looking to collaborate on blockchain technology
 - 🤔 I’m looking for help with design work
